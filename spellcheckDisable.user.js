@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Disable Spellcheck in WorkFlowy
 // @namespace    https://rawbytz.wordpress.com
-// @version      0.1
+// @version      0.2
 // @description  Disables the browser spellcheck feature on WorkFlowy startup.
 // @author       rawbytz
 // @match        https://workflowy.com/*
 // @match        https://*.workflowy.com/*
-// @updateUrl    https://github.com/rawbytz/spellcheck-disable/raw/master/spellcheckDisable.user.js
-// @downloadUrl  https://github.com/rawbytz/spellcheck-disable/raw/master/spellcheckDisable.user.js
 // @grant        none
 // ==/UserScript==
+
+// https://github.com/rawbytz/spellcheck-disable/raw/master/spellcheckDisable.user.js
 
 (function () {
   'use strict';
